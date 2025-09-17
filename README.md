@@ -39,7 +39,7 @@ Aplikasi web sederhana untuk mengompres file **Foto** atau **Gambar** dengan For
 ## 📸 Contoh Hasil
 | Foto Asli | Setelah Kompres |
 |-----------|-----------------|
-| ![before](demo/sebelum.jpg) | ![after](demo/sesudah.png) |
+| ![before](demo/sebelum.jpg) | ![after](demo/sesudah.jpg) |
 
 ## 📜 Lisensi
 MIT License — bebas digunakan, dimodifikasi, dan dibagikan.
